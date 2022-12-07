@@ -16,7 +16,7 @@ def fix_command(text, words=['Привет']):
 
 
 if __name__ == '__main__':
-    print(fix_command('Скэйпро', ['Скайпро']))  # Привет
+    print(fix_command('Skuqpro', ['Скайпро', 'Skypro']))  # Привет
     print(fix_command('Скуйпро', ['Скайпро']))  # Привет
     print(fix_command('Скйпро', ['Скайпро']))  # Привет
     print(fix_command('Скэйпо', ['Скайпро']))  # Привет
