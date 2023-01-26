@@ -25,6 +25,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.media/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -190,3 +191,4 @@ fabric.properties
 /.idea/other.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+/006__Impulse/.media/
